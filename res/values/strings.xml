@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Whack-A-Chuy</string>	
+    <string name="play_game">Play Game</string>
+    <string name="login_facebook">Login on\n Facebook</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_menu">Whack-A-Chuy</string>
+    <string name="no_swiping">Cloe\n No Swiping!</string>
+    <string name="score">Score: </string>
+    <string name="new_highscore">New\n Highscore: </string>
+    <string name="highscore">Highscore: </string>
+	<string name="facebook_status">Hey, I\'ve been whacking chuys\n and got a Highscore of %1$d! It\'s really addictive!</string>
+	<string name="facebook_name">I\'m playing Whack-A-Chuy</string>
+	<string name="game_over">Game Over!</string>
+	<string name="facebook_login_error">Something went wrong while logging you in :(</string>
+	<string name="facebook_logout_succeed">You have logged out Facebook</string>
+    <string name="facebook_login_succeed">You\'re now logged in Facebook</string>
+</resources>
